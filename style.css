@@ -1,0 +1,134 @@
+body{
+                font-family: 'Roboto', sans-serif;
+                margin: 0%;
+}
+.header{
+                background-image: url(image/header-bg.png);
+                background-repeat: no-repeat;
+                height: 500px; 
+                padding: 80px;
+                padding-bottom: 70px;
+}
+.first-div{
+                    width: 35%;
+                    float: left;
+                    margin-left: 5%;
+                    padding: 50px ;
+                     
+
+                    
+                
+}
+.first-div h3{
+                    font-size: 25px;
+}
+.first-div h1{
+                    font-size: 40px;
+                    font-weight: bolder;
+                    color: crimson;
+    
+}
+.first-div p{
+    margin-bottom: 30px;
+}
+.first-div a{
+                    color: white;
+                    background-color: crimson;
+                    text-decoration: none;
+                    font-size: 16px;
+                    font-weight: 700;
+                      
+                    padding: 10px 30px 10px 30px;
+                    border-radius: 5px;
+
+}
+.first-div a:hover{
+    background-color: orange;
+    color: black;
+}
+.first-div img{
+                    width: 100%;
+                    
+                   
+}
+.mid-first{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 500px; 
+    padding: 100px;
+     
+}
+.latest-work{
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 25px;
+}
+.latest-work img{
+    width: 100%;
+}
+.work{
+    background-image: url("image/latest-work-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+     
+}   
+.work h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+} 
+ 
+.contact{
+    margin: 5px;
+    padding: 5px;
+}
+.contact h1{
+    text-align: center;
+    font-size: 30px;
+}
+.contact h5{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 50px;
+    font-size: 16px;
+}
+.contact h6{
+    text-align: center;
+    font-size: 10px;
+     
+     
+
+}
+.contact p{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 20px;
+    
+} 
+.contact-me{
+    padding-top: 0px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    margin: 0px 320px 0px 320px;
+    padding: 15px;
+    border-radius: 5px;
+}
+.contact-me:hover{
+    background-color: orange;
+    color: black
+}
+.last-section{
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 500px;
+    padding: 100px 100px 10px 100px;    
+}
+footer{
+    text-align: center;
+    font-size: 13px;
+    color: dimgray;
+}
